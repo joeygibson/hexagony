@@ -1,16 +1,12 @@
-# Emojicode
+# Hexagony
 
-[![Build Status](https://travis-ci.org/joeygibson/emojicode.svg?branch=master)](https://travis-ci.org/joeygibson/emojicode)
+[![Build Status](https://travis-ci.org/joeygibson/hexagony.svg?branch=master)](https://travis-ci.org/joeygibson/hexagony)
 
-This is a Docker container for using the Emojicode language.
-
-## Compiling
-
-`./script/compile file.emojic`
+This is a Docker container for using the Hexagony language.
 
 ## Running
 
-`./script/run file.emojib`
+`./script/run file.hxg`
 
 ## Building the image yourself
 
